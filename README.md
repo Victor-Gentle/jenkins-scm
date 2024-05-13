@@ -1,2 +1,2 @@
 # jenkins-scm
-A sample jenkins project and build trigger configuration
+This is a sample jenkins project, configuring a connection to github and also build trigger configuration
